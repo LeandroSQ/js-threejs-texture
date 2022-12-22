@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA,EACC,UAAA,CACA,WAAA,CACA,qBAAA,CAGD,UACC,WAAA,CACA,YAAA,CACA,eAAA,CAGD,KACC,wBAAA","file":"style.min.css","sourcesContent":["* {\n\tmargin: 0px;\n\tpadding: 0px;\n\tbox-sizing: border-box;\n}\n\nhtml, body {\n\twidth: 100vw;\n\theight: 100vh;\n\toverflow: hidden;\n}\n\nbody {\n\tbackground-color: #212121;\n}"]}
